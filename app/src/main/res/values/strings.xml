@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">meuToolBar</string>
+    <string name="profile">profile</string>
+    <string name="setings">setings</string>
+    <string name="photo">photo</string>
+    <string name="shop">shop</string>
+</resources>
